@@ -4,13 +4,13 @@ Analyzed United States Department of Agriculture Census data using SAS and Pytho
 - - -
 ## DATASET SOURCES
 
-1.) [USDA NASS Database] (https://quickstats.nass.usda.gov/)
+1. [USDA NASS Database] (https://quickstats.nass.usda.gov/)
 
-2.) [NOAA National Climatic Data Center] (https://www.ncdc.noaa.gov/data-access/quick-links#gsod)
+2. [NOAA National Climatic Data Center] (https://www.ncdc.noaa.gov/data-access/quick-links#gsod)
 
-3.) [Bureau of Transportation Statistics: geospatial data] (https://data-usdot.opendata.arcgis.com/)
+3. [Bureau of Transportation Statistics: geospatial data] (https://data-usdot.opendata.arcgis.com/)
 
-4.) [NC Budget and  Management  Dataset] (https://www.osbm.nc.gov/demog/county-estimates)
+4. [NC Budget and  Management  Dataset] (https://www.osbm.nc.gov/demog/county-estimates)
 - - -
 # SOME OF THE INFOGRAPHICS INCLUDES:
 
